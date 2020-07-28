@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3T5uCbsSvgL8lP2TczpjXtqI3WHxIbU2hN7K6eRieQzkN7DlZ1T2r4/uWEG4u/BX7y38BtMnZAuAVU2o1PFJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\z003zeju\\source\\repos\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRulesEngine\\BusinessRulesEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z003zeju\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
